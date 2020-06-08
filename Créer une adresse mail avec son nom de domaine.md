@@ -26,4 +26,4 @@
  ![img6](img/image007.png)
 
 > **Attention**
-> Même si l’adresse mail semble active, il peut falloir entre 30min et quelques heures pour qu’elle soit réellement opérationnelle (envoi et réception de mails)
+> > Même si l’adresse mail semble active, il peut falloir entre 30min et quelques heures pour qu’elle soit réellement opérationnelle (envoi et réception de mails)
